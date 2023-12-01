@@ -163,4 +163,4 @@ To get more details and an accurate quote, please contact our [Sales Team](https
 
 ## License
 
-The code is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+The code is available as open source under the terms of the [Apache-2.0 License](https://opensource.org/license/apache-2-0).
